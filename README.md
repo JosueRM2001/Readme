@@ -16,6 +16,9 @@
 <p><h3>Espacios Metricos</h3></p>
 <p><h4>En la ventana de Espacios Métricos nos pedirá que ingresemos 4 valor para poder realizar la operación siendo estos valor x1, valor x2, valor y1 y valor y2 una ves ingresados los datos correctamente realizara la operación caso contraria nos dará un error.</h4></p>
 
+
+![Cap2](https://github.com/JosueRM2001/Readme/assets/134113256/5e7624fc-e821-45cf-9c2a-93020ac3c030)
+
   
 <p><h3>Metodo Biseccion</h3></p>
 <p><h4>Aque se pude ver como se debe ingresar los datos para que se opera de mandera correcta caso contrario nos saldra un error para volver a ingresar los datos entro de la ventana de Errores.</h4></p>
