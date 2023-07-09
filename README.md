@@ -92,4 +92,12 @@
 <td>Docencia</td>
 </tr>
 </table>
+<p><h3>Integrantes</h3></p>
+<p><h4>-Erick Riofrio</h4></p>
+<p><h4>-Angelo Unaucho</h4></p>
+<p><h4>-Edison Campaña</h4></p>
+<p><h4>-Segundo Tipanquiza</h4></p>
+<p><h4>-Ariel Guerron</h4></p>
+<p><h4>-Carlo Bohorquez</h4></p>
+<p><h4>-Alexander </h4></p>
 </html>
