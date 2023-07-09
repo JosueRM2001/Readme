@@ -27,7 +27,14 @@
 
 
 <p><h3>Propagacion Errores</h3></p>
-<p><h4>Aque se pude ver como se debe ingresar los datos para que se opera de mandera correcta caso contrario nos saldra un error para volver a ingresar los datos entro de la ventana de Errores.</h4></p>
+<p><h4>El la ventana de Propagación de Errores no mostrara otra venta con la grafica si ingresamos los valores y la función correctamente, para el ingreso de los valores será los siguientes x , y , error x , error y , la función y le daremos clic en calculara u ave echo esto se desplegara una ventana con la gráfica.</h4></p>
+
+![Cap4](https://github.com/JosueRM2001/Readme/assets/134113256/fb291667-702b-410f-94cd-e474bc51e4e4)
+
+
+<p><h3>Grafica</h3></p>
+
+![Cap5](https://github.com/JosueRM2001/Readme/assets/134113256/d33a9df7-c714-4ca7-98c3-5a7ef51b7c74)
 
 
 <p><h3> Punto Flotante</h3></p>
