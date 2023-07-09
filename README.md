@@ -92,7 +92,7 @@
 <td>Docencia</td>
 </tr>
 </table>
-<p><h3>Integrantes</h3></p>
+<p><h3>Creadores</h3></p>
 <p><h4>-Erick Riofrio</h4></p>
 <p><h4>-Angelo Unaucho</h4></p>
 <p><h4>-Edison Campaña</h4></p>
