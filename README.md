@@ -56,7 +56,7 @@
 
 
 <p><h3>Teorema de Bolzano</h3></p>
-<p><h4>Aque se pude ver como se debe ingresar los datos para que se opera de mandera correcta caso contrario nos saldra un error para volver a ingresar los datos entro de la ventana de Errores.</h4></p>
+<p><h4>Para este ventana de Teorema de Bolzano se debera ingrasar dos intervalos a y b con un funcion sedebera ingrasr los datos correctamente caso contra no se realizara el caculo, pero si se ingreso los intervalos a y b de forma correcta nos dara el calculo y si la funcion es continúa.</h4></p>
 
 ![Cap9](https://github.com/JosueRM2001/Readme/assets/134113256/195a3e52-8394-431a-8e38-dd71c3b918f8)
 
@@ -65,11 +65,13 @@
 
 <table align="center">
 <tr>
-<td>Costo</td>
-<td>Porducto</td>
-<td>Diseño</td>
-<td>Docencia</td>
-<td>Docencia</td>
+<td>Errores</td>
+<td>Espacios Metricos</td>
+<td>Metodo de Bisección/td>
+<td>Propagación de Errores</td>
+<td>Punto Flotante</td>
+<td>Sistema de Numeración</td>
+<td>Teorema de Bolzano</td>
 </tr>
 <tr>
 <td>Costo</td>
