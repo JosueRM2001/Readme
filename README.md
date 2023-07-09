@@ -45,14 +45,14 @@
 
 <p><h3>Sistema Numeracion</h3></p>
 <p><h4>En la ventana de Sistema de Numeración se ingresa el valor tanto binario como decimal que el usuario desea una vez ingresado el valor decimal o binario se elegirá entre dos opciones transformar de binaria a decimal o de decimal a binaria y ves seleccionada la opción se mostrará el cálculo.</h4></p>
-<p><h3>Binarioa a Deciaml</h3></p>
+<p><h3>Binarioa a Decimal</h3></p>
 
-![Cap7](https://github.com/JosueRM2001/Readme/assets/134113256/2a797a62-9cba-4bb4-87ab-8e180b5a3be8)
+![Cap8](https://github.com/JosueRM2001/Readme/assets/134113256/e1bfb25e-f9ae-4626-a381-154c07f5a99d)
 
 
 <p><h3>Decimal a Binario</h3></p>
 
-![Cap8](https://github.com/JosueRM2001/Readme/assets/134113256/e1bfb25e-f9ae-4626-a381-154c07f5a99d)
+![Cap7](https://github.com/JosueRM2001/Readme/assets/134113256/2a797a62-9cba-4bb4-87ab-8e180b5a3be8)
 
 
 <p><h3>Teorema de Bolzano</h3></p>
