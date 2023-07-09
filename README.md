@@ -61,7 +61,7 @@
 ![Cap9](https://github.com/JosueRM2001/Readme/assets/134113256/195a3e52-8394-431a-8e38-dd71c3b918f8)
 
 
-<p><h2>Cudro de Datos de los Temas</h2></p>
+<p><h2>Contenido de la Calculadora de Metodos Numericos</h2></p>
 
 <table align="center">
 <tr>
@@ -74,22 +74,22 @@
 <td>Teorema de Bolzano</td>
 </tr>
 <tr>
-<td>Costo</td>
-<td>Porducto</td>
-<td>Diseño</td>
-<td>Docencia</td>
-<td>Docencia</td>
-<td>Docencia</td>
-<td>Docencia</td>
+<td></td>
+<td>Valor Exact</td>
+<td>Distancia Euclidiana</td>
+<td>Raiz</td>
+<td>Mantisa</td>
+<td>Decimal</td>
+<td>Funcion Continúa</td>
 </tr>
 <tr>
-<td>Costo</td>
-<td>Porducto</td>
-<td>Diseño</td>
-<td>Docencia</td>
-<td>Docencia</td>
-<td>Docencia</td>
-<td>Docencia</td>
+<td>Valor Aproximado</td>
+<td>Distancia de Manhattan</td>
+<td>------</td>
+<td>------</td>
+<td>Exponente</td>
+<td>Binario</td>
+<td>Intervalo</td>
 </tr>
 </table>
 <p><h3>Creadores</h3></p>
