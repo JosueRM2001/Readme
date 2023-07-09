@@ -5,7 +5,7 @@
 <p><h4>Binevenido, acontinuacion les indicaremos como funcina la calculadora que calculara los siguentes temas: </h4></p>
 
 <p><h3>Errores</h3></p>
-<p><h4>Aque se pude ver como se dbe insresar los daots para que se opera de mandera correcta caso conttrario nos saldra un errpr para volver a ingresar los datos entro de la ventana de Errores</h4></p>
+<p><h4>Aque se pude ver como se debe ingresar los datos para que se opera de mandera correcta caso contrario nos saldra un error para volver a ingresar los datos entro de la ventana de Errores</h4></p>
 <p><h3>Espacios Metricos</h3></p>
 <p><h4></h4></p>
 <p><h3>Metodo Biseccion</h3></p>
