@@ -21,7 +21,9 @@
 
   
 <p><h3>Metodo Biseccion</h3></p>
-<p><h4>Aque se pude ver como se debe ingresar los datos para que se opera de mandera correcta caso contrario nos saldra un error para volver a ingresar los datos entro de la ventana de Errores.</h4></p>
+<p><h4>Para la venta del Método de Bisección se debe ingresar los limites correctamente siendo el límite superior y límite inferior luego ingresaremos la función que desea al usuario y por último se pondrá la tolerancia, si se ingresó todo correctamente nos calculara la respuesta caso contrario no nos calculara nada.</h4></p>
+
+![Cap3](https://github.com/JosueRM2001/Readme/assets/134113256/0001ea50-140f-4744-b79f-04b37a58ae61)
 
 
 <p><h3>Propagacion Errores</h3></p>
