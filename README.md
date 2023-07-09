@@ -2,7 +2,7 @@
 <html>
 <h1 align="center">Calculadora Metodos Numericos</h1>
 <body bgcolor="yellow"></body>
-<p><h3>Binevenido, acontinuacion les indicaremos como funcina la calculadora que calculara los siguentes temas: </h3></p>
+<p><h3>Binevenido, acontinuacion les indicaremos como funciona la calculador de la materia de Metodos Numericos con los siguentes temas: </h3></p>
 <p><h3>Errores</h3></p>
 <p><h4>Aque se pude ver como se debe ingresar los datos para que se opera de mandera correcta caso contrario nos saldra un error para volver a ingresar los datos entro de la ventana de Errores.</h4></p>
 
