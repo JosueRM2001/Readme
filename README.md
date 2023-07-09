@@ -27,7 +27,7 @@
 
 
 <p><h3>Propagacion Errores</h3></p>
-<p><h4>El la ventana de Propagación de Errores no mostrara otra venta con la grafica si ingresamos los valores y la función correctamente, para el ingreso de los valores será los siguientes x , y , error x , error y , la función y le daremos clic en calculara u ave echo esto se desplegara una ventana con la gráfica.</h4></p>
+<p><h4>En la ventana de Propagación de Errores no mostrara otra venta con la grafica si ingresamos los valores y la función correctamente, para el ingreso de los valores será los siguientes x , y , error x , error y , la función y le daremos clic en calculara u ave echo esto se desplegara una ventana con la gráfica.</h4></p>
 
 ![Cap4](https://github.com/JosueRM2001/Readme/assets/134113256/fb291667-702b-410f-94cd-e474bc51e4e4)
 
@@ -44,7 +44,15 @@
 
 
 <p><h3>Sistema Numeracion</h3></p>
-<p><h4>Aque se pude ver como se debe ingresar los datos para que se opera de mandera correcta caso contrario nos saldra un error para volver a ingresar los datos entro de la ventana de Errores.</h4></p>
+<p><h4>En la ventana de Sistema de Numeración se ingresa el valor tanto binario como decimal que el usuario desea una vez ingresado el valor decimal o binario se elegirá entre dos opciones transformar de binaria a decimal o de decimal a binaria y ves seleccionada la opción se mostrará el cálculo.</h4></p>
+<p><h3>Binarioa a Deciaml</h3></p>
+
+![Cap7](https://github.com/JosueRM2001/Readme/assets/134113256/2a797a62-9cba-4bb4-87ab-8e180b5a3be8)
+
+
+<p><h3>Decimal a Binario</h3></p>
+
+![Cap8](https://github.com/JosueRM2001/Readme/assets/134113256/e1bfb25e-f9ae-4626-a381-154c07f5a99d)
 
 
 <p><h3>Teorema de Bolzano</h3></p>
