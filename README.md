@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<h1 align="center"> Calculadora </h1>
+<h1 align="center">Calculadora Metodos Numericos</h1>
 <body bgcolor="yellow"></body>
 <p><h2>Binevenido, acontinuacion les indicaremos como funcina la calculadora que calculara los siguentes temas: </h2></p>
 <p><h3>Errores</h3></p>
