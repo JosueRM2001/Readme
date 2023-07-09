@@ -1,4 +1,5 @@
-
+<!DOCTYPE html>
+<html>
 <h1 align="center"> Calculadora </h1>
 <body bgcolor="yellow"></body>
 <p></p><h4>Binevenido, acontinuacion les indicaremos como funcina la calculadora que calculara los siguentes temas: </h4></p>
@@ -10,10 +11,5 @@
 <p></p><h4>Punto Flotante</h4></p>
 <p></p><h4>Sistema Numeracion</h4></p>
 <p></p><h4>Teorema de Bolzano</h4></p>
-| Conversiones  |      Errores      | Punto Flotante |Propagacion de Errores |
-| :------------ |:---------------:  |-------------------------:|-------:|
-| Binario a Decimal| Error Absoluto | Signo     |Iteraccion|
-| Octal a Decimal| Error Relativo   |  Mantiza     |Valor    
-| Decimal a Binario|                | Exponente    | Grafica iteraccion |
-| Hexadecimal a Binario|            |  Valor decimal  |     |
+</html>
 
