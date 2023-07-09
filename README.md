@@ -79,11 +79,15 @@
 <td>Diseño</td>
 <td>Docencia</td>
 <td>Docencia</td>
+<td>Docencia</td>
+<td>Docencia</td>
 </tr>
 <tr>
 <td>Costo</td>
 <td>Porducto</td>
 <td>Diseño</td>
+<td>Docencia</td>
+<td>Docencia</td>
 <td>Docencia</td>
 <td>Docencia</td>
 </tr>
