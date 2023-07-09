@@ -4,7 +4,7 @@
 <body bgcolor="yellow"></body>
 <p><h3>Binevenido, acontinuacion les indicaremos como funciona la calculador de la materia de Metodos Numericos con los siguentes temas: </h3></p>
 <p><h3>Errores</h3></p>
-<p><h4>Para la ventana de Errores se pudeobservar que se debe ingresar los datos de valor exacto y el valor de aproximación, deberemos ingresar los datos para que se opera de mandera correcta caso contrario no se calculara la operaciony debera volver a ingresar los datos.</h4></p>
+<p><h4>Para la ventana de Errores se puede observar que se debe ingresar los datos de valor exacto y el valor de aproximación, deberemos ingresar los datos para que se opera de mandera correcta caso contrario no se calculara la operaciony debera volver a ingresar los datos.</h4></p>
 
 
 
