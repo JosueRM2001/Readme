@@ -7,16 +7,16 @@
 <p><h3>Errores</h3></p>
 <p><h4>Aque se pude ver como se debe ingresar los datos para que se opera de mandera correcta caso contrario nos saldra un error para volver a ingresar los datos entro de la ventana de Errores</h4></p>
 <p><h3>Espacios Metricos</h3></p>
-<p><h4></h4></p>
+<p><h4>Aque se pude ver como se debe ingresar los datos para que se opera de mandera correcta caso contrario nos saldra un error para volver a ingresar los datos entro de la ventana de Errores</h4></p>
 <p><h3>Metodo Biseccion</h3></p>
-<p><h4></h4></p>
+<p><h4>Aque se pude ver como se debe ingresar los datos para que se opera de mandera correcta caso contrario nos saldra un error para volver a ingresar los datos entro de la ventana de Errores</h4></p>
 <p><h3>Propagacion Errores</h3></p>
-<p><h4></h4></p>
+<p><h4>Aque se pude ver como se debe ingresar los datos para que se opera de mandera correcta caso contrario nos saldra un error para volver a ingresar los datos entro de la ventana de Errores</h4></p>
 <p><h3>Punto Flotante</h3></p>
-<p><h4></h4></p>
+<p><h4>Aque se pude ver como se debe ingresar los datos para que se opera de mandera correcta caso contrario nos saldra un error para volver a ingresar los datos entro de la ventana de Errores</h4></p>
 <p><h3>Sistema Numeracion</h3></p>
-<p><h4></h4></p>
+<p><h4>Aque se pude ver como se debe ingresar los datos para que se opera de mandera correcta caso contrario nos saldra un error para volver a ingresar los datos entro de la ventana de Errores</h4></p>
 <p><h3>Teorema de Bolzano</h3></p>
-<p><h4></h4></p>
+<p><h4>Aque se pude ver como se debe ingresar los datos para que se opera de mandera correcta caso contrario nos saldra un error para volver a ingresar los datos entro de la ventana de Errores</h4></p>
 </html>
 
