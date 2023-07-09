@@ -40,6 +40,8 @@
 <p><h3>PuntoFlotante</h3></p>
 <p><h4>Para la ventana de Punto Flotante solo se deberá ingresar un numero para que nos calcule la mantisa y el exponente.</h4></p>
 
+![Cap6](https://github.com/JosueRM2001/Readme/assets/134113256/97691172-61fb-41dc-a153-26ae21ed0bce)
+
 
 <p><h3>Sistema Numeracion</h3></p>
 <p><h4>Aque se pude ver como se debe ingresar los datos para que se opera de mandera correcta caso contrario nos saldra un error para volver a ingresar los datos entro de la ventana de Errores.</h4></p>
