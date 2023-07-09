@@ -58,6 +58,9 @@
 <p><h3>Teorema de Bolzano</h3></p>
 <p><h4>Aque se pude ver como se debe ingresar los datos para que se opera de mandera correcta caso contrario nos saldra un error para volver a ingresar los datos entro de la ventana de Errores.</h4></p>
 
+![Cap9](https://github.com/JosueRM2001/Readme/assets/134113256/195a3e52-8394-431a-8e38-dd71c3b918f8)
+
+
 <p><h2>Cudro de Datos de los Temas</h2></p>
 
 <table align="center">
