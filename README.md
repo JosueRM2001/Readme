@@ -35,8 +35,8 @@
 
 <p><h3>Teorema de Bolzano</h3></p>
 <p><h4>Aque se pude ver como se debe ingresar los datos para que se opera de mandera correcta caso contrario nos saldra un error para volver a ingresar los datos entro de la ventana de Errores.</h4></p>
-<h1 align="center">
-<table>
+
+<table align="center">
 <tr>
 <td>Costo</td>
 <td>Porducto</td>
@@ -57,4 +57,3 @@
 </tr>
 </table>
 </html>
-</h1>
