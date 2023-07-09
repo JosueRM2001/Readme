@@ -10,4 +10,10 @@
 <p></p><h4>Punto Flotante</h4></p>
 <p></p><h4>Sistema Numeracion</h4></p>
 <p></p><h4>Teorema de Bolzano</h4></p>
+| Conversiones  |      Errores      | Punto Flotante |Propagacion de Errores |
+| :------------ |:---------------:  |-------------------------:|-------:|
+| Binario a Decimal| Error Absoluto | Signo     |Iteraccion|
+| Octal a Decimal| Error Relativo   |  Mantiza     |Valor    
+| Decimal a Binario|                | Exponente    | Grafica iteraccion |
+| Hexadecimal a Binario|            |  Valor decimal  |     |
 
