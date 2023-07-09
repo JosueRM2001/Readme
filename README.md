@@ -67,7 +67,7 @@
 <tr>
 <td>Errores</td>
 <td>Espacios Metricos</td>
-<td>Metodo de Bisección/td>
+<td>Metodo de Bisección</td>
 <td>Propagación de Errores</td>
 <td>Punto Flotante</td>
 <td>Sistema de Numeración</td>
