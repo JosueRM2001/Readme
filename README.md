@@ -27,7 +27,7 @@
 
 
 <p><h3>Propagacion Errores</h3></p>
-<p><h4>En la ventana de Propagación de Errores no mostrara otra venta con la grafica si ingresamos los valores y la función correctamente, para el ingreso de los valores será los siguientes x , y , error x , error y , la función y le daremos clic en calculara u ave echo esto se desplegara una ventana con la gráfica.</h4></p>
+<p><h4>En la ventana de Propagación de Errores nos mostrara otra venta con la grafica si ingresamos los valores y la función correctamente, para el ingreso de los valores será los siguientes x , y , error x , error y , la función y le daremos clic en calculara una vez echo esto se desplegara una ventana con la gráfica.</h4></p>
 
 ![Cap4](https://github.com/JosueRM2001/Readme/assets/134113256/fb291667-702b-410f-94cd-e474bc51e4e4)
 
@@ -99,5 +99,5 @@
 <p><h4>-Segundo Tipanquiza</h4></p>
 <p><h4>-Ariel Guerron</h4></p>
 <p><h4>-Carlo Bohorquez</h4></p>
-<p><h4>-Alexander </h4></p>
+<p><h4>-Alexander Cajamarca </h4></p>
 </html>
