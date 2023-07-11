@@ -34,8 +34,8 @@ este proyecto esta realizado en el enterno de Matlab, ademas el proyecto contuni
 <td>Teorema de Bolzano</td>
 </tr>
 <tr>
-<td></td>
-<td>Valor Exact</td>
+<td>Valor Exacto</td>
+<t></td>
 <td>Distancia Euclidiana</td>
 <td>Raiz</td>
 <td>Mantisa</td>
