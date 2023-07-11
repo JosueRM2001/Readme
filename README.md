@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html>
-<h1 align="center">Calculadora Metodos Numericos</h1>
+<h1 align="center">Calculadora Métodos Númericos</h1>
 <body bgcolor="33FFE3"></body>
-<p><h3>Bienvenidos a continuacion se presenta el proyecto de la materia de metodos numericos el cual consiste en implementar una serie de programas referentes a temas vistos
-en el transcurso de la materia.
-Para la implementacion de los programas se utilizo Matlab. </h3></p>
+<p><h3>Bienvenidos a continuacion se presenta el proyecto de la materia de metodos numericos el cual consiste en implementar una serie de programas referentes a temas vistos en el transcurso de la materia.
+-El programa tiene la capacidad de aceptar valores de entrada para cualquier algoritmo.
+-El programa valida que los parametros que se pasen sean los aducuados.
+Para la implementacion de los programas se utilizo Matlab.</h3></p>
 <p><h3>Requisitos</h3></p>
 <p><h4>Matlab version 2021A</h4></p>
 <p><h3>Librerias</h3></p>
