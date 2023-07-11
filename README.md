@@ -10,7 +10,7 @@ Para la implementacion de los programas se utilizo Matlab. </h3></p>
 <p><h3>Librerias</h3></p>
 <p><h4>Data Acquisition Toolbox , Matlab Graphics, Horzcat</h4></p>
 
-
+<p><h3>Ventana Principal de selecion de tema</h3></p>
 
 
 ![Cap10](https://github.com/JosueRM2001/Readme/assets/134113256/a60d8ee7-f61f-4691-aaa3-6b0ec335631e)
