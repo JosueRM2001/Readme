@@ -35,7 +35,7 @@ este proyecto esta realizado en el enterno de Matlab, ademas el proyecto contuni
 </tr>
 <tr>
 <td>Valor Exacto</td>
-<t></td>
+<t> ------------</td>
 <td>Distancia Euclidiana</td>
 <td>Raiz</td>
 <td>Mantisa</td>
