@@ -2,8 +2,9 @@
 <html>
 <h1 align="center">Calculadora Metodos Numericos</h1>
 <body bgcolor="33FFE3"></body>
-<p><h3>Binevenidos, acontinuación les indicaremos como funciona la calculador de la materia de Metodos Numericos
-este proyecto esta realizado en el enterno de Matlab, ademas el proyecto contunia en desarrollo. </h3></p>
+<p><h3>Bienvenidos a continuacion se presenta el proyecto de la materia de metodos numericos el cual consiste en implementar una serie de programas referentes a temas vistos
+en el transcurso de la materia.
+Para la implementacion de los programas se utilizo Matlab. </h3></p>
 <p><h3>Requisitos</h3></p>
 <p><h4>Matlab version 2021A</h4></p>
 <p><h3>Librerias</h3></p>
@@ -35,7 +36,6 @@ este proyecto esta realizado en el enterno de Matlab, ademas el proyecto contuni
 </tr>
 <tr>
 <td>Valor Exacto</td>
-<td> ------------</td>
 <td>Distancia Euclidiana</td>
 <td>Raiz</td>
 <td>Mantisa</td>
