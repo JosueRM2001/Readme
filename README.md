@@ -2,9 +2,14 @@
 <html>
 <h1 align="center">Calculadora Metodos Numericos</h1>
 <body bgcolor="33FFE3"></body>
-<p><h3>Binevenido, acontinuacion les indicaremos como funciona la calculador de la materia de Metodos Numericos con los siguentes temas: </h3></p>
-<p><h3></h3></p>
-<p><h4></h4></p>
+<p><h3>Binevenidos, acontinuación les indicaremos como funciona la calculador de la materia de Metodos Numericos
+este proyecto esta realizado en el enterno de Matlab, ademas el proyecto contunia en desarrollo. </h3></p>
+<p><h3>Requisitos</h3></p>
+<p><h4>Matlab version 2021A</h4></p>
+<p><h3>Librerias</h3></p>
+<p><h4>Data Acquisition Toolbox , Matlab Graphics, Horzcat</h4></p>
+
+
 
 
 ![Cap10](https://github.com/JosueRM2001/Readme/assets/134113256/a60d8ee7-f61f-4691-aaa3-6b0ec335631e)
@@ -12,47 +17,6 @@
 
 
 
-
-
-<p><h3></h3></p>
-<p><h4></h4></p>
-
-
-
-
-  
-<p><h3></h3></p>
-<p><h4></h4></p>
-
-
-
-
-<p><h3></h3></p>
-<p><h4></h4></p>
-
-
-
-
-<p><h3></h3></p>
-
-
-
-<p><h3></h3></p>
-<p><h4></h4></p>
-
-
-
-
-<p><h3></h3></p>
-<p><h4></h4></p>
-<p><h3></h3></p>
-
-<p><h3></h3></p>
-
-
-
-<p><h3></h3></p>
-<p><h4></h4></p>
 
 
 
