@@ -61,6 +61,6 @@
 <p><h4>-Edison Campaña</h4></p>
 <p><h4>-Segundo Tipanquiza</h4></p>
 <p><h4>-Ariel Guerron</h4></p>
-<p><h4>-Carlo Bohorquez</h4></p>
+<p><h4>-Carlos Bohorquez</h4></p>
 <p><h4>-Alexander Cajamarca </h4></p>
 </html>
