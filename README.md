@@ -38,15 +38,16 @@ Para la implementacion de los programas se utilizo Matlab. </h3></p>
 <td>Valor Exacto</td>
 <td>Distancia Euclidiana</td>
 <td>Raiz</td>
+<td>Valor de la Funcion</td>
 <td>Mantisa</td>
 <td>Decimal</td>
 <td>Funcion Continúa</td>
-<td>-------</td>  
+ 
 </tr>
 <tr>
 <td>Valor Aproximado</td>
 <td>Distancia de Manhattan</td>
-<td>------</td>
+<td>Error</td>
 <td>------</td>
 <td>Exponente</td>
 <td>Binario</td>
