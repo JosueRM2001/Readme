@@ -47,8 +47,8 @@ Para la implementacion de los programas se utilizo Matlab. </h3></p>
 <tr>
 <td>Valor Aproximado</td>
 <td>Distancia de Manhattan</td>
+<td>--------</td>
 <td>Error</td>
-<td>------</td>
 <td>Exponente</td>
 <td>Binario</td>
 <td>Intervalo</td>
