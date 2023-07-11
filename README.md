@@ -41,6 +41,7 @@ Para la implementacion de los programas se utilizo Matlab. </h3></p>
 <td>Mantisa</td>
 <td>Decimal</td>
 <td>Funcion Continúa</td>
+<td>-------</td>  
 </tr>
 <tr>
 <td>Valor Aproximado</td>
